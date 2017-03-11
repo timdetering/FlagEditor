@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STUP.ComponentModel.Design", "STUP.ComponentModel.Design.csproj", "{033AAE50-8F85-4AA4-9E0D-AE25234527B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlagEditor_Test", "..\FlagEditor_Test\FlagEditor_Test.csproj", "{29DBA036-2D87-480D-A912-3E88B670A7A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{033AAE50-8F85-4AA4-9E0D-AE25234527B5}.Debug.ActiveCfg = Debug|.NET
+		{033AAE50-8F85-4AA4-9E0D-AE25234527B5}.Debug.Build.0 = Debug|.NET
+		{033AAE50-8F85-4AA4-9E0D-AE25234527B5}.Release.ActiveCfg = Release|.NET
+		{033AAE50-8F85-4AA4-9E0D-AE25234527B5}.Release.Build.0 = Release|.NET
+		{29DBA036-2D87-480D-A912-3E88B670A7A4}.Debug.ActiveCfg = Debug|.NET
+		{29DBA036-2D87-480D-A912-3E88B670A7A4}.Debug.Build.0 = Debug|.NET
+		{29DBA036-2D87-480D-A912-3E88B670A7A4}.Release.ActiveCfg = Release|.NET
+		{29DBA036-2D87-480D-A912-3E88B670A7A4}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
